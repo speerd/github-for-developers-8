@@ -2,3 +2,4 @@
  - [ ] Where you are from  -MI
  - [ ] A favorite food - Good food
  - [ ] A hobby - Ice hockey
+ - [ ] Favorite color - red
